@@ -1,6 +1,4 @@
-﻿using Application.Todos.GetTodo;
-
-namespace Application.Todos.Shared;
+﻿namespace Application.Todos.Shared;
 
 public class TodoService
 {

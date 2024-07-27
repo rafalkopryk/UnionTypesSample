@@ -2,7 +2,7 @@
 
 namespace Application.Todos.GetTodo;
 
-public record GetTodoQuery(int id);
+public record GetTodoQuery(int Id);
 
 /// <summary>
 /// https://github.com/dotnet/csharplang/blob/main/proposals/TypeUnions.md#implementation
@@ -20,6 +20,6 @@ public abstract record GetTodoQueryResponse
     public record Ok(Todo Todo) : GetTodoQueryResponse();
     public record NotFound() : GetTodoQueryResponse
     {
-        public static readonly NotFound Instance = new NotFound();
+        public static readonly NotFound Instance = new();
     };
 }

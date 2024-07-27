@@ -7,7 +7,7 @@ public class GetTodoQueryHandler(TodoService todoService)
 {
     public GetTodoQueryResponse Handle(GetTodoQuery query)
     {
-        var result = todoService.Find(query.id);
+        var result = todoService.Find(query.Id);
         return result is null
             ? NotFound.Instance
             : new Ok(result);

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|c:\\users\\rafal\\source\\repos\\uniontypessample\\application\\todos\\gettodo\\gettodoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|solutionrelative:application\\todos\\gettodo\\gettodoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|c:\\users\\rafal\\source\\repos\\uniontypessample\\application\\todos\\gettodo\\gettodoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|solutionrelative:application\\todos\\gettodo\\gettodoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA2ED98-EC71-4A70-AADF-589D62F0D7DA}|Api\\Api.csproj|c:\\users\\rafal\\source\\repos\\uniontypessample\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA2ED98-EC71-4A70-AADF-589D62F0D7DA}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|c:\\users\\rafal\\source\\repos\\uniontypessample\\application\\todos\\shared\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|solutionrelative:application\\todos\\shared\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|c:\\users\\rafal\\source\\repos\\uniontypessample\\application\\todos\\shared\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|solutionrelative:application\\todos\\shared\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|c:\\users\\rafal\\source\\repos\\uniontypessample\\application\\todos\\gettodos\\gettodosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|solutionrelative:application\\todos\\gettodos\\gettodosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|c:\\users\\rafal\\source\\repos\\uniontypessample\\application\\todos\\gettodos\\gettodosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|solutionrelative:application\\todos\\gettodos\\gettodosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|c:\\users\\rafal\\source\\repos\\uniontypessample\\application\\applicationregistrationioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89371A1-0145-44D8-A856-EC17C2DABF15}|Application\\Application.csproj|solutionrelative:application\\applicationregistrationioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\Todos\\Shared\\TodoService.cs",
+              "RelativeDocumentMoniker": "Application\\Todos\\Shared\\TodoService.cs",
+              "ToolTip": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\Todos\\Shared\\TodoService.cs",
+              "RelativeToolTip": "Application\\Todos\\Shared\\TodoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:11:27.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\Todos\\Shared\\Todo.cs",
+              "RelativeDocumentMoniker": "Application\\Todos\\Shared\\Todo.cs",
+              "ToolTip": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\Todos\\Shared\\Todo.cs",
+              "RelativeToolTip": "Application\\Todos\\Shared\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:11:26.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetTodosQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\Todos\\GetTodos\\GetTodosQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Todos\\GetTodos\\GetTodosQueryHandler.cs",
+              "ToolTip": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\Todos\\GetTodos\\GetTodosQueryHandler.cs",
+              "RelativeToolTip": "Application\\Todos\\GetTodos\\GetTodosQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:11:23.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetTodosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\Todos\\GetTodos\\GetTodosQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Todos\\GetTodos\\GetTodosQuery.cs",
+              "ToolTip": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\Todos\\GetTodos\\GetTodosQuery.cs",
+              "RelativeToolTip": "Application\\Todos\\GetTodos\\GetTodosQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:11:21.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetTodoQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\Todos\\GetTodo\\GetTodoQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Todos\\GetTodo\\GetTodoQueryHandler.cs",
+              "ToolTip": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\Todos\\GetTodo\\GetTodoQueryHandler.cs",
+              "RelativeToolTip": "Application\\Todos\\GetTodo\\GetTodoQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:11:17.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTodoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\Todos\\GetTodo\\GetTodoQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Todos\\GetTodo\\GetTodoQuery.cs",
+              "ToolTip": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\Todos\\GetTodo\\GetTodoQuery.cs",
+              "RelativeToolTip": "Application\\Todos\\GetTodo\\GetTodoQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:10:07.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationRegistrationIoc.cs",
+              "DocumentMoniker": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\ApplicationRegistrationIoc.cs",
+              "RelativeDocumentMoniker": "Application\\ApplicationRegistrationIoc.cs",
+              "ToolTip": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Application\\ApplicationRegistrationIoc.cs",
+              "RelativeToolTip": "Application\\ApplicationRegistrationIoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:09:44.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\rafal\\source\\repos\\UnionTypesSample\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:09:16.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
