@@ -20,6 +20,6 @@ public abstract record GetTodoQueryResponse
     public record Ok(Todo Todo) : GetTodoQueryResponse();
     public record NotFound() : GetTodoQueryResponse
     {
-        public static readonly NotFound Instance = new();
+        public static readonly NotFound Result = new();
     };
 }

@@ -9,7 +9,7 @@ public class GetTodoQueryHandler(TodoService todoService)
     {
         var result = todoService.Find(query.Id);
         return result is null
-            ? NotFound.Instance
+            ? NotFound.Result
             : new Ok(result);
     }
 }
