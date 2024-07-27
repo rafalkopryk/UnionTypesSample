@@ -17,8 +17,8 @@ public record GetTodoQuery(int Id);
 /// </summary>
 public abstract record GetTodoQueryResponse
 {
-    public record Ok(Todo Todo) : GetTodoQueryResponse();
-    public record NotFound() : GetTodoQueryResponse
+    public record Ok(Todo Todo) : GetTodoQueryResponse;
+    public record NotFound : GetTodoQueryResponse
     {
         public static readonly NotFound Result = new();
     };
